@@ -1,4 +1,4 @@
-```md
+md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00FFFF,100:FF00FF&height=260&section=header&text=SHIVANAND%20PATIL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h1 align="center">Hi 👋, I'm Shivanand Patil</h1>
@@ -12,9 +12,7 @@ Full Stack Developer | Crafting Scalable Web & Mobile Experiences with Next.js &
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Next.js+Developer;React+Native+Developer;Building+Modern+Web+%26+Mobile+Applications" alt="Typing SVG" />
   </a>
 </p>
-```
-```md id="iq2l0x"
----
+md id="iq2l0x"
 
 ## 🌌 About Me
 
@@ -26,7 +24,7 @@ Full Stack Developer | Crafting Scalable Web & Mobile Experiences with Next.js &
 
 🌱 Currently exploring advanced frontend engineering, scalable architectures and production-level application workflows.
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -43,9 +41,8 @@ Full Stack Developer | Crafting Scalable Web & Mobile Experiences with Next.js &
     <img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-```
-```md id="vbj8fp"
----
+md id="vbj8fp"
+
 
 # ⚡ Tech Stack
 
@@ -53,7 +50,6 @@ Full Stack Developer | Crafting Scalable Web & Mobile Experiences with Next.js &
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,javascript,html,css,git,github,postman,figma,vscode" />
 </p>
 
----
 
 # 📱 Mobile Development
 
@@ -64,4 +60,3 @@ Full Stack Developer | Crafting Scalable Web & Mobile Experiences with Next.js &
 <p align="center">
 React Native • Redux Toolkit • AsyncStorage • OTP Authentication
 </p>
-```
