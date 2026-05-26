@@ -1,16 +1,15 @@
-## Hi there 👋
+```md
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00FFFF,100:FF00FF&height=260&section=header&text=SHIVANAND%20PATIL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<!--
-**shivanand43/shivanand43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Shivanand Patil</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Full Stack Developer | Crafting Scalable Web & Mobile Experiences with Next.js & React Native
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Next.js+Developer;React+Native+Developer;Building+Modern+Web+%26+Mobile+Applications" alt="Typing SVG" />
+  </a>
+</p>
+```
