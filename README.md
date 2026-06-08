@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shivanand Patil</h1>
 
 <h3 align="center">
-Full Stack Developer | Crafting Scalable Web & Mobile Experiences with Next.js & React Native
+Full Stack Developer | Next.js | Node.js | React.js | React Native | AI & LLM Integration (Gemini/OpenAI) | 1+ Years Exp
 </h3>
 
 <p align="center">
