@@ -273,7 +273,7 @@ Government Engineering College, Haveri
 
 <p align="center">
 
-Next.js Architecture • React Native Optimization • System Design • AI Applications • Scalable Frontend Engineering
+• React Native Optimization • System Design • AI Applications • Scalable Frontend Engineering
 
 </p>
 
@@ -282,7 +282,7 @@ Next.js Architecture • React Native Optimization • System Design • AI Appl
 <h2 align="center">💡 Developer Philosophy</h2>
 
 <p align="center">
-<i>"First, solve the problem. Then, write the code."</i>
+<i>"I don't aim to know everything; I aim to learn faster than yesterday, adapt faster than change, and deliver better than expected."</i>
 </p>
 
 
