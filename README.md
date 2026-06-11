@@ -1,8 +1,8 @@
+html
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Next.js+Developer;React+Native+Developer;Building+Modern+Web+%26+Mobile+Applications" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Next.js+%7C+React.js;React+Native+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00FFFF,100:FF00FF&height=260&section=header&text=SHIVANAND%20PATIL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h1 align="center">Hi 👋, I'm Shivanand Patil</h1>
