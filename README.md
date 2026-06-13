@@ -286,8 +286,4 @@ Government Engineering College, Haveri
 <i>"I don't aim to know everything; I aim to learn faster than yesterday, adapt faster than change, and deliver better than expected."</i>
 </p>
 
-
-
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00FFFF,100:FF00FF&height=120&section=footer"/>
