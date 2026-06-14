@@ -64,7 +64,7 @@ Automate complex workflows using Google Gemini LLMs and Manifest V3 Chrome Exten
 
 </td>
 </tr>
-
+ 
 <tr>
 <td width="50%">
 
