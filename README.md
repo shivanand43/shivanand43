@@ -8,20 +8,18 @@
 <h1 align="center">Hi 👋, I'm Shivanand Patil</h1>
 
 <h3 align="center">
-Full Stack Developer | Next.js | Node.js | React.js | React Native | AI & LLM Integration (Gemini/OpenAI) | 1+ Years Exp
+Full Stack Developer | Next.js | Node.js | React Native | AI & LLM Integration | 1+ Years Exp
 </h3>
 
+## 👨‍💻 About Me
+I am a Full Stack Developer specializing in building scalable enterprise dashboards, cross-platform mobile experiences, and AI-powered workflow automations. I engineer production-ready frontend architectures using **Next.js** and **React Native**, integrate robust REST APIs, and implement modern GenAI solutions using **Google Gemini LLMs** to solve complex business problems.
 
-
-##👨‍💻 About Me
-I'm a Full Stack Developer based in Bangalore, India, specializing in building AI-powered applications, scalable enterprise dashboards, and cross-platform mobile experiences.
-I engineer production-ready frontend architectures using Next.js and React.js, integrate robust REST APIs, and implement modern GenAI workflows using Google Gemini LLMs to automate complex enterprise processes.
 ---
-Role: Full Stack Developer | AI-Powered Applications
-Company: Interioverse Design Pvt Ltd, Bangalore
-Location: Bangalore, Karnataka, India
-Email: shivanandpatil55550@gmail.com
-GitHub: shivanand43
+**Role:** Full Stack Developer | AI-Powered Applications  
+**Company:** Interioverse Design Pvt Ltd  
+**Location:** Bangalore, Karnataka, India  
+**Email:** shivanandpatil55550@gmail.com  
+**GitHub:** shivanand43  
 ---
 
 ## 🌐 Connect With Me
@@ -30,222 +28,158 @@ GitHub: shivanand43
   <a href="https://www.linkedin.com/in/shivanand-patil-4a7559280">
     <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-
   <a href="mailto:shivanandpatil55550@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF00FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="shivanand43 (SHIVANAND PATIL )">
+  <a href="https://github.com/shivanand43">
     <img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-
-html
 <hr>
 
-<h1 align="center">🚀 What I Do</h1>
+<h1 align="center">🚀 Core Competencies</h1>
 
 <table align="center">
 <tr>
 <td width="50%">
-
-🏢 <b>Enterprise Dashboards</b>
-
-Build scalable operations and analytics portals using Next.js, React.js and Recharts.
-
+🏢 <b>Enterprise Dashboards</b><br>
+Architecting scalable operations and analytics portals using Next.js, React, and Recharts.
 </td>
-
 <td width="50%">
-
-🤖 <b>AI Automation</b>
-
-Automate complex workflows using Google Gemini LLMs and Manifest V3 Chrome Extensions.
-
+🤖 <b>AI Automation</b><br>
+Automating complex enterprise workflows using Google Gemini LLMs and Manifest V3.
 </td>
 </tr>
- 
 <tr>
 <td width="50%">
-
-📱 <b>Mobile Applications</b>
-
-Develop cross-platform applications using React Native and Redux Toolkit.
-
+📱 <b>Mobile Applications</b><br>
+Developing cross-platform (iOS/Android) mobile architectures using React Native, Expo, and Zustand.
 </td>
-
 <td width="50%">
-
-⚡ <b>Backend Architecture</b>
-
-Build secure APIs using Node.js, Express.js, JWT Authentication and MongoDB.
-
+⚡ <b>Backend Architecture</b><br>
+Building secure, high-performance REST APIs using Node.js, Express, JWT, and MongoDB.
 </td>
 </tr>
 </table>
 
 <br>
 
-<h1 align="center">🏆 Engineering Achievements</h1>
+<h1 align="center">🏆 Engineering Impact & Achievements</h1>
 
 <table>
 <tr>
 <th>Achievement</th>
 <th>Impact</th>
 </tr>
-
 <tr>
-<td>🤖 Workflow Automation</td>
-<td>Built a Gemini-powered Chrome Extension that converts PDFs into structured JSON and automates enterprise form filling.</td>
+<td><b>🤖 AI Workflow Automation</b></td>
+<td>Engineered a Gemini-powered extension that parses PDFs into structured JSON, automating manual enterprise form-filling.</td>
 </tr>
-
 <tr>
-<td>⚡ Frontend Validation Bypass</td>
-<td>Engineered React DOM event automation using input, change and blur events for complex workflow execution.</td>
+<td><b>⚡ Complex Event Simulation</b></td>
+<td>Bypassed rigid frontend validation barriers by engineering React DOM event automation (input, change, blur) for seamless workflow execution.</td>
 </tr>
-
 <tr>
-<td>📱 State Management Optimization</td>
-<td>Implemented Redux Toolkit architecture eliminating prop-drilling across mobile applications.</td>
+<td><b>📱 State Management Architecture</b></td>
+<td>Implemented Zustand and Redux Toolkit architectures across mobile applications, completely eliminating prop-drilling and optimizing render cycles.</td>
 </tr>
-
 <tr>
-<td>☁️ Manual Effort Reduction</td>
-<td>Integrated AWS S3 asset catalogs to streamline quotation and design workflows.</td>
+<td><b>☁️ Cloud Asset Integration</b></td>
+<td>Streamlined quotation and design delivery workflows by securely integrating AWS S3 asset catalogs.</td>
 </tr>
-
 <tr>
-<td>📊 Analytics Visibility</td>
-<td>Developed Recharts dashboards enabling business growth tracking and operational monitoring.</td>
+<td><b>📊 Business Intelligence</b></td>
+<td>Developed responsive Recharts dashboards that provide leadership with real-time analytics for tracking business growth.</td>
 </tr>
-
 </table>
 
 <br>
 
 <h1 align="center">💻 Featured Projects</h1>
 
-<h2>🤖 AI-Powered Enterprise Automation Platform</h2>
-
+<h2>🛒 Kirani Store – Multi-Role E-Commerce Mobile App</h2>
 <p>
-Production-grade Manifest V3 Chrome Extension engineered to automate enterprise workflows using Google Gemini AI.
+A modern, highly scalable cross-platform grocery management application built with a strict separation-of-concerns architecture, tailored for Customers, Shopkeepers, and Delivery Partners.
 </p>
-
-<b>Tech Stack</b>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,vite" />
-
+<b>Tech Stack</b><br>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind" />
 <br><br>
-
 <b>Highlights</b>
-
 <ul>
-<li>Resume to JSON conversion using Gemini LLM</li>
-<li>Automated enterprise form filling</li>
-<li>React DOM event simulation</li>
-<li>Chrome Storage API integration</li>
-<li>Background service worker architecture</li>
+<li>Engineered file-based routing and deep linking using <b>Expo Router</b>.</li>
+<li>Architected centralized global state management with <b>Zustand</b> for authentication, multi-language (i18n), and dynamic theme switching.</li>
+<li>Implemented a dynamic, role-based authentication flow with secure OTP verification.</li>
+<li>Designed a highly responsive UI using <b>NativeWind</b> and Lucide Icons for native iOS and Android experiences.</li>
+</ul>
+
+<hr>
+
+<h2>🤖 AI-Powered Enterprise Automation Platform</h2>
+<p>
+Production-grade Manifest V3 Chrome Extension engineered to automate repetitive enterprise workflows using generative AI.
+</p>
+<b>Tech Stack</b><br>
+<img src="https://skillicons.dev/icons?i=react,vite" />
+<br><br>
+<b>Highlights</b>
+<ul>
+<li>Resume-to-JSON parsing engine powered by Gemini LLM.</li>
+<li>Automated enterprise form filling and React DOM event simulation.</li>
+<li>Robust background service worker architecture with Chrome Storage API integration.</li>
 </ul>
 
 <hr>
 
 <h2>🏢 Enterprise Operations & Analytics Portal</h2>
-
 <p>
-Centralized SaaS platform for managing subscriptions, city-wise pricing and operational workflows.
+Centralized SaaS platform for managing multi-city pricing, user subscriptions, and operational workflows.
 </p>
-
-<b>Tech Stack</b>
-
-<br>
-
+<b>Tech Stack</b><br>
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb" />
-
 <br><br>
-
 <b>Highlights</b>
-
 <ul>
-<li>Role-based access management</li>
-<li>JWT authentication</li>
-<li>AWS S3 asset catalog integration</li>
-<li>Analytics dashboards using Recharts</li>
-<li>Responsive admin architecture</li>
+<li>Role-based access control (RBAC) with JWT authentication.</li>
+<li>AWS S3 asset catalog integration for secure file management.</li>
+<li>Data-rich analytics dashboards utilizing Recharts.</li>
 </ul>
 
 <hr>
 
-<h2>📱 Cross-Platform Workflow & Task Automation App</h2>
-
+<h2>📱 Task Automation & Project Management App</h2>
 <p>
-Mobile application for project management, collaboration and progress tracking.
+Mobile workspace application designed for real-time project collaboration, progress tracking, and vendor management.
 </p>
-
-<b>Tech Stack</b>
-
-<br>
-
+<b>Tech Stack</b><br>
 <img src="https://skillicons.dev/icons?i=react,nodejs" />
-
 <br><br>
-
 <b>Highlights</b>
-
 <ul>
-<li>OTP Authentication</li>
-<li>Redux Toolkit architecture</li>
-<li>Real-time task management</li>
-<li>Android & iOS support</li>
-<li>Local session persistence</li>
-</ul>
-
-<hr>
-
-<h2>💬 Portfolio Recruiter Chatbot</h2>
-
-<p>
-Intelligent chatbot designed to automate recruiter interactions and answer profile-related queries.
-</p>
-
-<b>Tech Stack</b>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb" />
-
-<br><br>
-
-<b>Highlights</b>
-
-<ul>
-<li>Keyword-based intelligent responses</li>
-<li>REST API integration</li>
-<li>MongoDB Atlas storage</li>
-<li>Vercel deployment</li>
+<li>Secure OTP Authentication and local session persistence.</li>
+<li>Optimized state management using Redux Toolkit.</li>
+<li>Seamless cross-platform deployment for Android & iOS.</li>
 </ul>
 
 <br>
-# ⚡ Tech Stack
+
+<h1 align="center">⚡ Tech Stack</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,mongodb,javascript,html,css,git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,nodejs,express,mongodb,javascript,html,css,git,github,postman,figma,vscode" />
 </p>
+
+<br>
 
 <h1 align="center">💼 Experience</h1>
 
 <h3>Frontend Developer | Interioverse Design Pvt Ltd</h3>
-
-<p>
-📅 May 2025 – Present
-</p>
-
+<p>📅 May 2025 – Present</p>
 <ul>
-<li>Architecting scalable frontend management systems using Next.js</li>
-<li>Integrating secure REST APIs with JWT authentication</li>
-<li>Building reusable UI components and dashboards</li>
-<li>Developing business intelligence visualizations using Recharts</li>
+<li>Architecting scalable frontend management systems and SaaS portals using Next.js.</li>
+<li>Integrating secure REST APIs with token-based authentication.</li>
+<li>Building highly reusable, modular UI component libraries.</li>
+<li>Developing complex data visualization tools using Recharts.</li>
 </ul>
 
 <br>
@@ -255,15 +189,10 @@ Intelligent chatbot designed to automate recruiter interactions and answer profi
 <table>
 <tr>
 <td>
-
-🎓 Bachelor of Engineering (ECE)
-
-Visvesvaraya Technological University
-
-Government Engineering College, Haveri
-
-2021 – 2025
-
+<b>🎓 Bachelor of Engineering (ECE)</b><br>
+Visvesvaraya Technological University<br>
+Government Engineering College, Haveri<br>
+<i>2021 – 2025</i>
 </td>
 </tr>
 </table>
@@ -273,9 +202,7 @@ Government Engineering College, Haveri
 <h1 align="center">🌱 Currently Learning</h1>
 
 <p align="center">
-
-• React Native Optimization • System Design • AI Applications • Scalable Frontend Engineering
-
+• React Native Performance Optimization • System Design Architecture • Advanced LLM Implementations 
 </p>
 
 <br>
@@ -287,3 +214,4 @@ Government Engineering College, Haveri
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00FFFF,100:FF00FF&height=120&section=footer"/>
+
