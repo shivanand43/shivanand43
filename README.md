@@ -215,4 +215,3 @@ Government Engineering College, Haveri<br>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00FFFF,100:FF00FF&height=120&section=footer"/>
-
