@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Next.js+%7C+React.js;React+Native+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
