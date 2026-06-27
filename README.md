@@ -12,7 +12,6 @@ Full Stack Developer | Next.js | Node.js | React Native | AI & LLM Integration |
 
 ## 👨‍💻 About Me
 I am a Full Stack Developer specializing in building scalable enterprise dashboards, cross-platform mobile experiences, and AI-powered workflow automations. I engineer production-ready frontend architectures using **Next.js** and **React Native**, integrate robust REST APIs, and implement modern GenAI solutions using **Google Gemini LLMs** to solve complex business problems.
-
 ---
 **Role:** Full Stack Developer | AI-Powered Applications  
 **Company:** Interioverse Design Pvt Ltd  
