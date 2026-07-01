@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Shivanand Patil</h1>
 
 <h3 align="center">
-Full Stack Developer | Next.js | Node.js | React Native | AI & LLM Integration | 1+ Years Exp
+Full Stack Developer | Next.js | Node.js | React Native | AI & LLM Integration | 2 Years Exp
 </h3>
 
 ## 👨‍💻 About Me
