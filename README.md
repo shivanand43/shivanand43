@@ -218,5 +218,20 @@ Government Engineering College, Haveri<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2200&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Building+Production-Ready+Applications...;%F0%9F%A7%A0+Learning+Something+New+Every+Day...;%F0%9F%94%A5+Turning+Ideas+Into+Reality...;%E2%9A%A1+Always+Ready+For+The+Next+Challenge..." />
 </p>
+---
+<h2 align="center">🚀 Currently Working On</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=950&lines=Building+Scalable+Enterprise+Applications;Developing+Cross-Platform+Mobile+Apps;Exploring+AI+Automation+Workflows;Open+To+Exciting+Opportunities" />
+</p>
+---
+---
+
+<h2 align="center">💻 System Status</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=700&color=39FF14&center=true&vCenter=true&width=900&lines=%24+Loading+Projects...;%24+Compiling+Ideas...;%24+Deploying+Applications...;%24+Ready+For+New+Opportunities..." />
+</p>
+---
 
 
