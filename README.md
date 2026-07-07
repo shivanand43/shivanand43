@@ -212,4 +212,11 @@ Government Engineering College, Haveri<br>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00FFFF,100:FF00FF&height=120&section=footer"/>
-new updats Loding....
+
+<h2 align="center">⚡ Developer Status</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2200&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Building+Production-Ready+Applications...;%F0%9F%A7%A0+Learning+Something+New+Every+Day...;%F0%9F%94%A5+Turning+Ideas+Into+Reality...;%E2%9A%A1+Always+Ready+For+The+Next+Challenge..." />
+</p>
+
+
