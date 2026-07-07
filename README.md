@@ -10,13 +10,6 @@
 <img src="https://img.shields.io/badge/📍_Location-Bangalore-6C63FF?style=for-the-badge"/>
 
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-1%2B_Year-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Location-Bangalore-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Joining-Immediate-brightgreen?style=for-the-badge"/>
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00FFFF,100:FF00FF&height=260&section=header&text=SHIVANAND%20PATIL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h1 align="center">Hi 👋, I'm Shivanand Patil</h1>
