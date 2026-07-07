@@ -1,9 +1,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Next.js+%7C+React.js;React+Native+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=🚀+Immediate+Joiner;💼+Open+to+Work;⚡+Available+for+Full-Time+Roles" />
+
+<img src="https://img.shields.io/badge/🚀_Immediate_Joiner-Available_Now-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💼_Experience-2%2B_Years-1E90FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/📍_Location-Bangalore-6C63FF?style=for-the-badge"/>
+
 </p>
 
 <p align="center">
