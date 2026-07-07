@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Next.js+%7C+React.js;React+Native+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀%20Immediate%20Joiner-Available%20Now-00C853?style=for-the-badge" />
+</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00FFFF,100:FF00FF&height=260&section=header&text=SHIVANAND%20PATIL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <h1 align="center">Hi 👋, I'm Shivanand Patil</h1>
@@ -218,16 +220,7 @@ Government Engineering College, Haveri<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2200&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Building+Production-Ready+Applications...;%F0%9F%A7%A0+Learning+Something+New+Every+Day...;%F0%9F%94%A5+Turning+Ideas+Into+Reality...;%E2%9A%A1+Always+Ready+For+The+Next+Challenge..." />
 </p>
----
-<h2 align="center">🚀 Currently Working On</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=950&lines=Building+Scalable+Enterprise+Applications;Developing+Cross-Platform+Mobile+Apps;Exploring+AI+Automation+Workflows;Open+To+Exciting+Opportunities" />
-</p>
----
----
-
-<h2 align="center">💻 System Status</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=700&color=39FF14&center=true&vCenter=true&width=900&lines=%24+Loading+Projects...;%24+Compiling+Ideas...;%24+Deploying+Applications...;%24+Ready+For+New+Opportunities..." />
