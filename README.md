@@ -191,16 +191,31 @@ Mobile workspace application designed for real-time project collaboration, progr
 
 <br>
 
-<h1 align="center">🎓 Education</h1>
+<h2 align="center">🎓 Education</h2>
 
-<table>
+<table align="center">
 <tr>
-<td>
-<b>🎓 Bachelor of Engineering (ECE)</b><br>
-Visvesvaraya Technological University<br>
-Government Engineering College, Haveri<br>
-<i>2021 – 2025</i>
+
+<td width="50%" valign="top">
+
+### 🎓 Bachelor of Engineering (ECE)
+
+**Visvesvaraya Technological University**  
+🏛️ Government Engineering College, Haveri  
+📅 **2021 – 2025**
+
 </td>
+
+<td width="50%" valign="top">
+
+### 🎓 Pre-University (Science)
+
+**Ekalavya Science PU College**  
+🏛️ Harugeri, TQ: Raybag, Dist: Belagavi  
+📅 **2019 – 2021**
+
+</td>
+
 </tr>
 </table>
 
